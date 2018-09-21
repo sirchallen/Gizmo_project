@@ -1,3 +1,3 @@
 Gizmo_project
 
-[a relative link](engineer_notebook.pdf)
+[a relative link](docs/engineer_notebook.pdf)
